@@ -22,6 +22,7 @@
 		0015A4B91DC0A60400EEF3D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0015A4BC1DC0A60400EEF3D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0015A4BE1DC0A60400EEF3D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0015A4C41DC0BB3200EEF3D5 /* GressNumPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GressNumPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				0015A4B91DC0A60400EEF3D5 /* Assets.xcassets */,
 				0015A4BB1DC0A60400EEF3D5 /* LaunchScreen.storyboard */,
 				0015A4BE1DC0A60400EEF3D5 /* Info.plist */,
+				0015A4C41DC0BB3200EEF3D5 /* GressNumPlayground.playground */,
 			);
 			path = GressTheNumber;
 			sourceTree = "<group>";
@@ -263,6 +265,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = QUGRN27H3U;
 				INFOPLIST_FILE = GressTheNumber/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = changan.chen.GressTheNumber;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +279,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = QUGRN27H3U;
 				INFOPLIST_FILE = GressTheNumber/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = changan.chen.GressTheNumber;
 				PRODUCT_NAME = "$(TARGET_NAME)";
